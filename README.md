@@ -1,7 +1,7 @@
 # Flask-App
 Making this just to learn CI/CD into Azure VM
-\n\n
-If you want to run this flask app\n
+<br><br>
+If you want to run this flask app<br>
 Make sure you run the requirements.txt by
-\n
+<br>
 pip install -r requirements.txt
